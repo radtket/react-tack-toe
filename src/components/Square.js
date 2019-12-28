@@ -11,7 +11,11 @@ const Square = ({ onClick, value }) => {
 
 Square.propTypes = {
   onClick: PropTypes.func.isRequired,
-  value: PropTypes.oneOf(["X", "O"]).isRequired,
+  value: PropTypes.oneOf(["X", "O"]),
+};
+
+Square.defaultProps = {
+  value: null,
 };
 
 export default Square;
