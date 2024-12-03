@@ -24,6 +24,7 @@
     "gh-pages": "^6.2.0",
     "prettier": "^2.3.2"
   },
+  "homepage": "https://radtket.github.io/react-tack-toe",
   "scripts": {
     "start": "DISABLE_ESLINT_PLUGIN=true react-scripts start",
     "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
