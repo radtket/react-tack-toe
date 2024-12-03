@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e445e38f.chunk.css",
-    "main.js": "/static/js/main.cbcb20b3.chunk.js",
-    "main.js.map": "/static/js/main.cbcb20b3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b7b6c0a2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b7b6c0a2.js.map",
-    "static/js/2.493bd644.chunk.js": "/static/js/2.493bd644.chunk.js",
-    "static/js/2.493bd644.chunk.js.map": "/static/js/2.493bd644.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e445e38f.chunk.css.map": "/static/css/main.e445e38f.chunk.css.map",
-    "static/js/2.493bd644.chunk.js.LICENSE.txt": "/static/js/2.493bd644.chunk.js.LICENSE.txt"
+    "main.css": "/react-tack-toe/static/css/main.e445e38f.chunk.css",
+    "main.js": "/react-tack-toe/static/js/main.cbcb20b3.chunk.js",
+    "main.js.map": "/react-tack-toe/static/js/main.cbcb20b3.chunk.js.map",
+    "runtime-main.js": "/react-tack-toe/static/js/runtime-main.6b8740b7.js",
+    "runtime-main.js.map": "/react-tack-toe/static/js/runtime-main.6b8740b7.js.map",
+    "static/js/2.493bd644.chunk.js": "/react-tack-toe/static/js/2.493bd644.chunk.js",
+    "static/js/2.493bd644.chunk.js.map": "/react-tack-toe/static/js/2.493bd644.chunk.js.map",
+    "index.html": "/react-tack-toe/index.html",
+    "static/css/main.e445e38f.chunk.css.map": "/react-tack-toe/static/css/main.e445e38f.chunk.css.map",
+    "static/js/2.493bd644.chunk.js.LICENSE.txt": "/react-tack-toe/static/js/2.493bd644.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7b6c0a2.js",
+    "static/js/runtime-main.6b8740b7.js",
     "static/js/2.493bd644.chunk.js",
     "static/css/main.e445e38f.chunk.css",
     "static/js/main.cbcb20b3.chunk.js"
